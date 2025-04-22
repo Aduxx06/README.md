@@ -1,3 +1,4 @@
+Moje specjalizacje:
 Administracja i zarządzanie infrastrukturą techniczną serwerów,
-Programista w zakresie back-endu
-Administracja i konfiguracja sieci komputerowych
+programista w zakresie back-endu,
+administracja i konfiguracja sieci komputerowych.
