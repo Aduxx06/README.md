@@ -1,3 +1,3 @@
-# README.md
-● Hi 👋, I'm Aduxx
-● I love java and python ❤️
+Administracja i zarządzanie infrastrukturą techniczną serwerów,
+Programista w zakresie back-endu
+Administracja i konfiguracja sieci komputerowych
