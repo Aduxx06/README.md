@@ -1,3 +1,7 @@
+
+
+---
+
 ## 🛠️ Technologie i narzędzia  
 
 <p align="center">
@@ -13,14 +17,10 @@
 ---
 
 ## 🌱 Obecnie uczę się  
-- Tworzenia aplikacji w architekturze **microservices**  
-- Automatyzacji i **CI/CD** z wykorzystaniem Dockera  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+  &nbsp; **C++**
+</p>
 
 ---
 
-## 📊 Statystyki GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojNickGitHub&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwojNickGitHub&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</p>
