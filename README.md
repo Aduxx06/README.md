@@ -1,9 +1,3 @@
-# 📘 Mój projekt
-
-Opis projektu...
-
----
-
 ## 🛠️ Technologie i narzędzia  
 
 <p align="center">
@@ -19,8 +13,10 @@ Opis projektu...
 ---
 
 ## 🌱 Obecnie uczę się  
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
   &nbsp; C++
 </p>
 
+---
