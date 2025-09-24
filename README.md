@@ -1,3 +1,6 @@
+# 📘 Mój projekt
+
+Opis projektu...
 
 ---
 
@@ -20,6 +23,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
   &nbsp; C++
 </p>
-
----
 
